@@ -1,4 +1,5 @@
 Link to download it : https://chromewebstore.google.com/detail/my-yt-notes/oniiihfbmhjghddmcmoblfalcmlkmhhj?hl=en-US&utm_source=ext_sidebar
+
 This Google Chrome extension makes it easy to take notes while watching YouTube videos. You don't need a notebook, pen, or even a separate notepad app, just use the extension, and your notes are saved automatically in Chrome!
 
 Why is this extension great?
